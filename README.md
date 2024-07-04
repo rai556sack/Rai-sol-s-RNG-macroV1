@@ -14,6 +14,3 @@ This macro has a few glitches because it was created by a novice and influenced
 
 作ったのは日本人です。
 create by japanese perpole.
-
-追記:パスワードはmacro3001です。
-　　 password is macro3001.
